@@ -1,5 +1,9 @@
 # FastApi
 
+# course 
+Udemy: FastAPI - The Complete Course 2023 (Beginner + Advanced)
+
+
 # set up
 
 `python -m venv fastapienv`
